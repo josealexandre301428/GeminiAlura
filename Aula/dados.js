@@ -81,5 +81,4 @@ const dados = [
     }
 ];
 
-console.log(dados);
 
